@@ -1,6 +1,6 @@
 # OTP-verification-using-Python
 
-
+![image]( https://github.com/patelshubham91/OTP-verification-using-Python/blob/main/Project%20Image.jpg)
 
 # PROBLEM STATEMENT
 The objective of the project is to create a secure and reliable OTP (One-Time Password) verification system in Python. This system aims to enhance security by providing a temporary, one-time password for user verification. The system generates a 6-digit OTP and sends it to the user's email address. Upon receiving the OTP, the user enters it into the system for validation. If the entered OTP matches the generated OTP, access is granted; otherwise, access is denied. This project ensures a secure method of authentication, bolstering the security of user accounts and sensitive information.
@@ -56,6 +56,10 @@ def verify_otp(receiver_email, otp):
 2. Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
 3. Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
 4. Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
+
+![image](https://github.com/patelshubham91/OTP-verification-using-Python/blob/main/Correct%20OTP.jpg)
+
+![image](https://github.com/patelshubham91/OTP-verification-using-Python/blob/main/Incorrect%20OTP.jpg)
 
 # CONCLUSION
 The OTP verification system developed in Python with a simple GUI interface serves as an effective tool for enhancing user experience and ensuring secure access to systems or services. Throughout the project, we have accomplished the following:

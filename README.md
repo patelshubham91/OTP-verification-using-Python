@@ -70,3 +70,6 @@ The OTP verification system developed in Python with a simple GUI interface serv
 5. Enhancements: Several enhancements are integrated into the system, including dynamic font sizing, visual feedback for OTP verification status, and real-time removal of outdated messages to maintain interface clarity.
 
 Overall, the OTP verification system offers a robust solution for securing access to sensitive information or services by implementing a reliable and user-friendly authentication mechanism. With its intuitive interface and effective feedback mechanism, the system provides a seamless experience for users while ensuring the integrity and security of the verification process.
+
+# TOOLS
+Jupyter Notebook
